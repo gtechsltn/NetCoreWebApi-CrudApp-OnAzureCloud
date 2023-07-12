@@ -10,6 +10,12 @@ Redis Cache is used effectively. After Deletion and Update, all cached for "Book
 
 ** appsettings.json did not published because of the security reasons for Redis Cache Server and SQL Server. **
 
+** https://github.com/gtechsltn/Dapper.CX
+
+** https://github.com/gtechsltn/Asp.Net-Core-CRUD-Operations-using-Admin-Template
+
+** https://codinginfinite.com/crud-operations-asp-net-core-mvc-tutorial/
+
 #### Used Technologies:
 * .Net Core 3.1
 * Redis Cache
